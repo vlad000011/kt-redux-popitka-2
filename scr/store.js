@@ -8,3 +8,5 @@ export const store = configureStore({
     teachers: teachersReducer,
   },
 })
+
+export default store
